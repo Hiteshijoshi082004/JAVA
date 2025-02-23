@@ -10,8 +10,5 @@ class Temperatureconversion{
         System.out.println("Temperature before converting into Degree Celsius = "+F);
         // PRINTING CONVERTED TEMPERATURE
         System.out.println("Temperature after converting into Degree Celsius = "+(((double)F-32)*5.0/9.0));
-        
-
-
     }
 }
