@@ -36,5 +36,7 @@ public class Multithreading {
         MyRunnable runnable = new MyRunnable();
         Thread t2 = new Thread(runnable);
         t2.start();
+
+        
     }
 }

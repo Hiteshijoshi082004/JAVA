@@ -5,7 +5,7 @@ class Expressions {
         System.out.println("Expressions");
         System.out.println("-----------------------------------");
         // EXPRESSION FIRST
-        int exp1 = 15 + 58 * 45;
+        int exp1 = -15 + 58 * 45;
         
         // EXPRESSION SECOND
         int exp2 = (35 + 8) % 6;

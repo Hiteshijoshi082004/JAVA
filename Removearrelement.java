@@ -35,7 +35,7 @@ public class Removearrelement {
     int arr2[] = new int[arr.length - 1];
     if (index == 0) {
       for(int i = 1;i<arr.length;i++){
-        arr2[i-1] = arr[i];
+        arr2[i-1] = arr[i];   
       }
     }
     else if (index == arr.length) {

@@ -24,7 +24,7 @@ public class ThreadPriority {
         MyThread t2 = new MyThread("High Priority Thread");
 
         // Set priorities
-        t1.setPriority(Thread.MIN_PRIORITY); // 1
+        t1.setPriority(Thread.MIN_PRIORITY); // 1`
         t2.setPriority(Thread.MAX_PRIORITY); // 10
 
         // Display priorities

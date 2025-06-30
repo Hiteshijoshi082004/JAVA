@@ -15,7 +15,7 @@ class Rectangularpattern {
             for (int j = 0 ; j < n ; j++){
                 System.out.print("*");
             }
-            System.out.println("*");
+            System.out.println("");
         }
     }
 }

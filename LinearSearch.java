@@ -15,7 +15,7 @@ public class LinearSearch {
   }
 public static int linearSearch(int arr[], int n, int x){
     //The input takes an int array, its size n, and key element x which we need to search for as input and returns the position of x in arr
-    for (int i = 0; i < n; i++) 
+    for (int i = 0; i < n; i++)   
     { 
       // Return the index of the element if the element is found 
       if (arr[i] == x) 

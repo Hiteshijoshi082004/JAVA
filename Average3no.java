@@ -18,7 +18,7 @@ public class Average3no
         System.out.println("Enter third number:");
         int c = sc.nextInt();
         // PRINTING AVG OF THREE NUMBERS
-        System.out.println("The average of "+a+" "+b+" "+c+" "+ "is: " + avgThreeNum(a, b, c));
+        System.out.println("The average of Three Numbers is: " + avgThreeNum(a, b, c));
     }
         // MADE A FUNCTION avgThreeNum IN WHICH CALCULATING AVG OF 3 NUMBERS
     public static float avgThreeNum(int a, int b, int c)
